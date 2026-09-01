@@ -5,21 +5,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sabit-Al-Juma/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sabit-Al-Juma/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sabit-Al-Juma/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sabit-Al-Juma/DSA/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -30,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sabit-Al-Juma/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
