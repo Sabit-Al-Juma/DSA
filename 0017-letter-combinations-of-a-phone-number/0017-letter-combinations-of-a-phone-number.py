@@ -14,6 +14,6 @@ class Solution(object):
             for j in result:
                 for k in str_dict[i]:
                     new_result.append(j+k)
-            result=new_result
+                    result=new_result
         return result
        
